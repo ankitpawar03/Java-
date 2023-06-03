@@ -15,7 +15,7 @@ public class AreaOfCircle {
 
 //        area of circle if diameter is given: A = pi*(d*d)/4
 
-        double area = pi*(dia*dia)/4;
+        double area = pi*(dia*dia);
 
         System.out.println(area);
     }

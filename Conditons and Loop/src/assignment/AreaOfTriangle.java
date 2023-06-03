@@ -2,7 +2,7 @@ package assignment;
 
 import java.util.Scanner;
 
-public class AreaOdTriangle {
+public class AreaOfTriangle {
     public static void main(String[] args){
 
 //        Find Area Of Triangle if base and height is given
